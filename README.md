@@ -22,7 +22,10 @@ Here are some of my recent projects that showcase my skills and interests:
 2. **Teeth detection**:
    - Description: A Python model that detects teeth and tooth fillings using YOLOv5.
    - Repository: [Teeth detection](https://github.com/micpow1cc/Pantomograph_teeth_counting)
-  
+
+5. **OTODOM page web scraping**:
+   - Description: A Python script that collects data from OTODOM page (price of a flat). It performs a normality (Shapiro–Wilk test) on the collected prices and visualizes the distribution using a histogram.
+   - Repository: [OTODOM web scraping](https://github.com/micpow1cc/WEB_SCRAPING_OTODOM)
 3. **PDF Project**:
    - Description: A Python project that extracts text from PDF files and searches for specific content.
    - Repository: [PDF Project](https://github.com/your-username/pdf-project)
