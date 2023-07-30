@@ -17,7 +17,7 @@ Here are some of my recent projects that showcase my skills and interests:
 
 1. **Automatic Training and Saving Neural Network Models**:
    - Description: Class which automates the process of training and saving neural network models with a specific        architecture (data selection based on most correlated dimentions).
-   - Repository: [Automatic Training and Saving Neural Network Models](https://github.com/micpow1cc/auto_neuralnetwork_train_and_save))
+   - Repository: [Automatic Training and Saving Neural Network Models](https://github.com/micpow1cc/auto_neuralnetwork_train_and_save)
   
 2. **Teeth detection**:
    - Description: A Python model that detects teeth and tooth fillings using YOLOv5.
